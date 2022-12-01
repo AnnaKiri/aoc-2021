@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Part2 {
 
 	public static void main(String[] args) {
-File file = new File(".\\src\\Day3\\data.txt");
+		File file = new File(".\\src\\Day3\\data.txt");
 		
 		Scanner scan;
 		try {
